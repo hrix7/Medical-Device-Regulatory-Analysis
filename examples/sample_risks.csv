@@ -1,0 +1,4 @@
+hazard,hazardous_situation,harm,severity,probability,control
+Power interruption,Therapy stops unexpectedly,Incomplete treatment,4,2,Battery status and safe-state design
+Flow obstruction,Reduced fluid flow,Inadequate therapy,4,2,Occlusion monitoring and alarm
+User interface error,Incorrect setting entered,Delayed therapy,3,2,Usability testing and input constraints
