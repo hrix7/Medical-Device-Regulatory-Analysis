@@ -35,9 +35,12 @@ FDA 510(k), De Novo, PMA, SaMD, EU IVDR, FMEA, risk management, clinical evidenc
 
 This repository documents academic work and reusable research tools. It is not regulatory, legal, or submission advice for a specific commercial device.
 
-## Author
+## Author and Project Setting
 
-Hritika Adhikary - M.S. Biomedical Engineering, Arizona State University.
+**Hritika Adhikary**  
+BMD 667 - Regulation of Medical Diagnostics and Devices  
+Arizona State University  
+Spring 2025
 
 ## Rights
 
