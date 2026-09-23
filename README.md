@@ -37,10 +37,10 @@ This repository documents academic work and reusable research tools. It is not r
 
 ## Author and Project Setting
 
-**Hritika Adhikary**  
-BMD 667 - Regulation of Medical Diagnostics and Devices  
-Arizona State University  
-Spring 2025
+**Author:** Hritika Adhikary  
+**Course:** BMD 667 - Regulation of Medical Diagnostics and Devices  
+**Institution:** Arizona State University  
+**Period:** Spring 2025
 
 ## Rights
 
